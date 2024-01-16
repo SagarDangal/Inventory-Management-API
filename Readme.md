@@ -5,7 +5,7 @@
 get the repo from github
 
 ```bash
-git clone 
+git clone git@github.com:SagarDangal/Inventory-Management-API.git
 
 ```
 
